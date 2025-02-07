@@ -1,0 +1,340 @@
+[
+    {
+        "type": "anatomy",
+        "index": 119,
+        "item": {
+            "index": 119,
+            "question": "Which one of the following brain areas is supplied by branches of the subclavian arteries?",
+            "A": "The frontal lobe",
+            "B": "The parietal lobe",
+            "C": "The hypothalamus",
+            "D": "The cerebellum",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 120,
+        "item": {
+            "index": 120,
+            "question": "Which of the following structures is part of the small intestine?",
+            "A": "Ascending colon",
+            "B": "Cecum",
+            "C": "Ileum",
+            "D": "Sigmoid colon",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 121,
+        "item": {
+            "index": 121,
+            "question": "During an inferior alveolar nerve block the needle ideally passes",
+            "A": "posterior and medial to medial pterygoid.",
+            "B": "anterior and lateral to medial pterygoid.",
+            "C": "through medial pterygoid.",
+            "D": "inferior to medial pterygoid.",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 122,
+        "item": {
+            "index": 122,
+            "question": "Patients with which of the following diseases are treated with injections of vitamin B-12?",
+            "A": "Bell's palsy",
+            "B": "Crohn's disease",
+            "C": "Pernicious anemia",
+            "D": "Graves' disease",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 123,
+        "item": {
+            "index": 123,
+            "question": "Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?",
+            "A": "The maxillary bone",
+            "B": "The temporal bone",
+            "C": "The sphenoid bone",
+            "D": "The frontal bone",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 124,
+        "item": {
+            "index": 124,
+            "question": "Parasympathetic preganglionic axons leave the CNS with the",
+            "A": "cervical spinal nerves.",
+            "B": "thoracic spinal nerves.",
+            "C": "lumbar spinal nerves.",
+            "D": "sacral spinal nerves.",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "anatomy",
+        "index": 125,
+        "item": {
+            "index": 125,
+            "question": "A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.",
+            "A": "Pupillary constriction",
+            "B": "Pupillary constriction and vasodilation of facial vessels",
+            "C": "Pupillary constriction, vasodilation of facial vessels and increased facial sweating",
+            "D": "Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "college_biology",
+        "index": 34,
+        "item": {
+            "index": 34,
+            "question": "A DNA strand with the sequence 5′ CGA TTG 3′ would be complementary to the sequence",
+            "A": "5′ GCU AAC 3′",
+            "B": "5′ GCT AAC 3′",
+            "C": "5′ GTT AGC 3′",
+            "D": "5′ CAA TCG 3′",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "college_chemistry",
+        "index": 79,
+        "item": {
+            "index": 79,
+            "question": "Which of the following is classified as a conjugate acid-base pair?",
+            "A": "HCl / NaOH",
+            "B": "H3O+ / H2O",
+            "C": "O2 / H2O",
+            "D": "H+ / Cl−",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "college_medicine",
+        "index": 25,
+        "item": {
+            "index": 25,
+            "question": "A segment of DNA from a lab mouse is determined to be 5’ – GGATCCTCATG – 3’. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion?",
+            "A": "5’ – GCATCCTCATG – 3’",
+            "B": "5’ – TGATCCCAG – 3’",
+            "C": "5’ – GGTCCTCATC – 3’",
+            "D": "5’ – GGATCCATG – 3’",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "computer_security",
+        "index": 77,
+        "item": {
+            "index": 77,
+            "question": "In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.",
+            "A": "Phishing",
+            "B": "MiTM",
+            "C": "Buffer-overflow",
+            "D": "Clickjacking",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "high_school_biology",
+        "index": 100,
+        "item": {
+            "index": 100,
+            "question": "The nucleotide sequence of a DNA molecule is 5′-C-A-T-3′. A mRNA molecule with a complementary codon is transcribed from the DNA in the process of protein synthesis a tRNA pairs with a mRNA codon. What is the nucleotide sequence of the tRNA anticodon?",
+            "A": "5′-G-T-A-3′",
+            "B": "5′-G-U-A-3′",
+            "C": "5′-C-A-U-3′",
+            "D": "5-′U-A-C-3′",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "high_school_us_history",
+        "index": 57,
+        "item": {
+            "index": 57,
+            "question": "This question refers to the following information.\n\"Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war;\n\"Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim….\n\"That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….\"\nWoodrow Wilson, 1914\nThe statement above is most in harmony with the sentiments in which of the following speeches?",
+            "A": "Washington's Farewell Address",
+            "B": "George H. W. Bush's \"A Thousand Points of Light\"",
+            "C": "Lincoln's Gettysburg Address",
+            "D": "Franklin D. Roosevelt's \"Day of Infamy\"",
+            "answer": "A"
+        }
+    },
+    {
+        "type": "philosophy",
+        "index": 173,
+        "item": {
+            "index": 173,
+            "question": "In response to the argument that famine relief is counterproductive because it leads to overpopulation, Singer claims that:",
+            "A": "this has empirically been shown to be false.",
+            "B": "this is true, but should not be of moral concern to us.",
+            "C": "this is a reason to give money to population control efforts.",
+            "D": "there is no such thing as “overpopulation.”",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "philosophy",
+        "index": 208,
+        "item": {
+            "index": 208,
+            "question": "Anscombe claims that an adequate moral psychology would include:",
+            "A": "an answer to the mind-body problem.",
+            "B": "analyses of concepts such as “action” and “intention.”",
+            "C": "an explanation of how free will is possible.",
+            "D": "all of the above.",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "philosophy",
+        "index": 212,
+        "item": {
+            "index": 212,
+            "question": "When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:",
+            "A": "there are many other things that are also holy.",
+            "B": "prosecuting wrongdoers is not always holy.",
+            "C": "there is disagreement about what counts as “wrongdoing.”",
+            "D": "all of the above.",
+            "answer": "A"
+        }
+    },
+    {
+        "type": "prehistory",
+        "index": 214,
+        "item": {
+            "index": 214,
+            "question": "The Mayan king Yax Pahsaj symbolized his royalty on a stele that depicts:",
+            "A": "an eagle, a serpent, and a jaguar, all of which were important royal animals.",
+            "B": "a series of decisive military conquests against a rival king.",
+            "C": "a lightning bolt descending from heaven and marking him as the leader.",
+            "D": "the founder of the dynasty “passing him the torch.”",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "professional_accounting",
+        "index": 238,
+        "item": {
+            "index": 238,
+            "question": "In the statement of activities for a governmental entity revenues such as charges for building permits garbage collection and dog licenses are reported as which of the following?",
+            "A": "Program revenues in the category ‚ÄúCapital Grants and Contributions.‚Äù",
+            "B": "Program revenues in the category ‚ÄúCharges for Services.‚Äù",
+            "C": "General revenues in the category ‚ÄúCharges for Services.‚Äù",
+            "D": "General revenues in the category ‚ÄúCapital Grants and Contributions.‚Äù",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 47,
+        "item": {
+            "index": 47,
+            "question": "A former client owes you over $600.00 in therapy fees and you are considering using a collection agency to collect the money she owes you. As an ethical psychologist, you should:",
+            "A": "decide not to do so because using a collection agency is prohibited by the ethical guidelines.",
+            "B": "do so only if you had informed the client at the beginning of therapy that you would do so if she did not pay her fees in a timely manner.",
+            "C": "contact the client first to inform her of your intent to use a collection agency if she does not pay her outstanding fees by a specific date.",
+            "D": "use a collection agency only as a “last resort.”",
+            "answer": "C"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 94,
+        "item": {
+            "index": 94,
+            "question": "Hypnosis is best described as a response to suggestion involving:",
+            "A": "a measurable physiological change.",
+            "B": "an alteration in memory, mood, and perception.",
+            "C": "increased compliance to situational demands.",
+            "D": "a state of “artificial sleep.”",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 291,
+        "item": {
+            "index": 291,
+            "question": "The most common cause of cerebral palsy is",
+            "A": "trauma at the time of birth",
+            "B": "dural hemorrhages",
+            "C": "measles with accompanying fever",
+            "D": "a genetic (autosomal) trait",
+            "answer": "A"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 292,
+        "item": {
+            "index": 292,
+            "question": "At the termination of an extensive training program, management may expect to find chat",
+            "A": "most trainees have improved, but relative standing is generally maintained",
+            "B": "primarily low-ability trainees have improved in performance",
+            "C": "primarily high-ability trainees have improved in performance",
+            "D": "all trainees are at the same performance level",
+            "answer": "A"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 412,
+        "item": {
+            "index": 412,
+            "question": "For a Gestalt therapist, a primary goal of treatment is to help the client:",
+            "A": "integrate the present with his/her past and future.",
+            "B": "integrate the various aspects of the self.",
+            "C": "develop a “success identity.”",
+            "D": "develop a “healthy style of life.”",
+            "answer": "B"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 449,
+        "item": {
+            "index": 449,
+            "question": "Which of the following correctly completes the analogy: “Vision is to hearing as",
+            "A": "parietal lobe is to temporal lobe.”",
+            "B": "occipital lobe is to parietal lobe.”",
+            "C": "frontal lobe is to occipital lobe.”",
+            "D": "occipital lobe is to temporal lobe.”",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 453,
+        "item": {
+            "index": 453,
+            "question": "Alice, age 14, is certain that everyone is looking at her because she has a large blemish in the middle of her forehead. According to Elkind (1967), Alice’s belief is a manifestation of:",
+            "A": "self-conscious emotions.",
+            "B": "the “personal fable.”",
+            "C": "social referencing.",
+            "D": "the “imaginary audience.”",
+            "answer": "D"
+        }
+    },
+    {
+        "type": "professional_psychology",
+        "index": 585,
+        "item": {
+            "index": 585,
+            "question": "Erich Fromm states that the society prevents you from realizing true nature to be loving, creative, and productive. Which of the responses to societal demands allow a person to realize that?",
+            "A": "The receptive definitely allows a person to realize its true nature, to loving, creative, productive",
+            "B": "The hoarding allows a person to realize its true nature, to be loving, creative, productive",
+            "C": "The marketing surely allows a person to realize its true nature, to be loving, creative, productive",
+            "D": "The productive allows a person to realize its true nature, to be loving, creative, etc.",
+            "answer": "D"
+        }
+    }
+]
