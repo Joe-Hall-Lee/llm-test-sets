@@ -27,6 +27,6 @@ def calculate_accuracy(file_path, threshold=0.5):
 
 
 if __name__ == "__main__":
-    file_path = "irt/3pl-2000/model_predictions.jsonlines"
+    file_path = "irt/2pl-2000/model_predictions.jsonlines"
     acc, correct, total = calculate_accuracy(file_path)
     print(f"Accuracy: {acc:.4f} ({correct}/{total})")
